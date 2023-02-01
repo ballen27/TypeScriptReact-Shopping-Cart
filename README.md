@@ -18,16 +18,23 @@ git clone https://github.com/[username]/shopping-cart-app.git
 
 2. Install the dependencies
 
+```bash
   npm install
-  or 
+```
+or
+```bash
   yarn install
-
+```
 
 3. Start the development server
 
+```bash
   npm run dev
-  or 
+```
+  or
+```bash
   yarn dev
+```
 
 The app should now be running on `http://localhost:3000`
 
@@ -43,4 +50,5 @@ The app should now be running on `http://localhost:3000`
 
 ## License
 
-This project is licensed under the [Insert License Name] License - see the [LICENSE](LICENSE) file for details
+This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License
+
